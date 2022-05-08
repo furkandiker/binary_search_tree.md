@@ -18,12 +18,12 @@ Cozum
                                                                   5					
                                                                 1
 ```		
-```    
+```
 8, 7'den buyuktur sagina yazilir                                     7
                                                                 5         8	
-                                                             1						 		
-```		
-```       
+                                                             1
+```
+```
 3, 7'den ve 5'ten kucuktur 1'den buyuk                           7
 1'in sagina yazilir                                         5        8
                                                        1		
